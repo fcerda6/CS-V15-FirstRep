@@ -1,0 +1,42 @@
+{
+  "files": {
+    ".replit": [
+      {
+        "id": "4fc643ea-ff22-481b-ad70-ad9f0329596c",
+        "line": 4,
+        "version": 7,
+        "index": 134
+      }
+    ],
+    "README.md": [
+      {
+        "id": "3607cb37-d64e-4d9b-be6c-333e17ceb50d",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "exam.cpp": [
+      {
+        "id": "97ec3bb2-f942-4151-8944-5fb1492e0511",
+        "line": 9,
+        "version": 16,
+        "index": 112
+      }
+    ],
+    "main.cpp": [
+      {
+        "id": "27b62cef-f656-4ff5-a778-bc6c8c855d86",
+        "line": 8,
+        "version": 4,
+        "index": 100
+      },
+      {
+        "id": "817cf495-835b-450c-a8a5-729b7cac3c1f",
+        "line": 9,
+        "version": 18,
+        "index": 101
+      }
+    ]
+  }
+}
